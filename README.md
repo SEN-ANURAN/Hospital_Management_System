@@ -1,0 +1,2 @@
+# Hospital_Management_System
+HOSPITAL MANAGEMENT SYSTEM  MINI PROJECT
